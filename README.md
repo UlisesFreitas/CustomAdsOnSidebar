@@ -23,5 +23,12 @@ The image can be selected from Media Libray too actually on this versión the im
 Im goin to update on further versions
 
 Some Screenshots
+Admin page
+<img src="http://www.ulisesfreitas.com/customadsplugin/customads3.png" alt="sc">
 <img src="http://www.ulisesfreitas.com/customadsplugin/customads1.png" alt="sc">
+<img src="http://www.ulisesfreitas.com/customadsplugin/customads2.png" alt="sc">
+FrontEnd page
+<img src="http://www.ulisesfreitas.com/customadsplugin/customads4.png" alt="sc">
+<p></p>
+
 Any questions feel free to mail me at me@ulisesfreitas.com
