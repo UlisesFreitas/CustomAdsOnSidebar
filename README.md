@@ -18,7 +18,8 @@ You have to encounter 4 boxes with a pair of Link,Image
 Link: a simple url like http://www.ulisesfreitas.com
 Image: a url like http://www.ulisesfreitas.com/logo125x125.png 
 
-The image can be selected from Media Libray too actually on this versión the image width/height is on attribute <img> like <img src="" width="125" height="125" alt="Bla Bla">
+The image can be selected from Media Libray too actually on this versión the image width/height is on attribute 
+<img> like img src="" width="125" height="125" alt="Bla Bla"
 Im goin to update on further versions
 
 
