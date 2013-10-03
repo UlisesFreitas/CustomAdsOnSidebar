@@ -22,5 +22,6 @@ The image can be selected from Media Libray too actually on this versión the im
 <img> like img src="" width="125" height="125" alt="Bla Bla"
 Im goin to update on further versions
 
-
+Some Screenshots
+<img src="http://www.ulisesfreitas.com/customadsplugin/customads1.png" alt="sc">
 Any questions feel free to mail me at me@ulisesfreitas.com
